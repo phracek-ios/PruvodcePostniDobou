@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-PruvodcePostniDobou/Pods-PruvodcePostniDobou-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BonMot/BonMot.framework
+${BUILT_PRODUCTS_DIR}/DynamicColor/DynamicColor.framework
+${BUILT_PRODUCTS_DIR}/Pageboy/Pageboy.framework
+${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework
+${BUILT_PRODUCTS_DIR}/Tabman/Tabman.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework

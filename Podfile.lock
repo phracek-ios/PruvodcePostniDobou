@@ -1,0 +1,40 @@
+PODS:
+  - BonMot (5.6.0)
+  - DynamicColor (4.2.0)
+  - Pageboy (3.6.2)
+  - R.swift (5.3.1):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - Tabman (2.10.0):
+    - Pageboy (~> 3.6.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - BonMot
+  - DynamicColor
+  - R.swift
+  - Tabman (~> 2.9)
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - BonMot
+    - DynamicColor
+    - Pageboy
+    - R.swift
+    - R.swift.Library
+    - Tabman
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  BonMot: 2217a66e5ddc6a8d2ffb759fe8c85a8528e0d3e7
+  DynamicColor: c475f66bda1cabf602f2c54ac1171c0c07148a5a
+  Pageboy: cf121b9dd48c63f3f281b2a9ec93d02e0f23879b
+  R.swift: 56ec7e3aef34b9eee47a659e42462db2c1cc5ac3
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  Tabman: d8d6ab0b483c7db375a71ac227d3ef791b56a049
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 88321a8cdaa5cdd9f2bab2d48b38fa0fdffa1bfd
+
+COCOAPODS: 1.10.1
